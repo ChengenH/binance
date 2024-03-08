@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChengenH/binance"
+    "url": "https://github.com/ChengenH/chengsbinance"
   },
-  "website": "https://github.com/ChengenH/binance.git",
+  "website": "https://github.com/ChengenH/chengsbinance.git",
   "keywords": [
     "binance",
     "client",
@@ -20,13 +20,13 @@
   "author": "moncici007",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChengenH/binance/issues"
+    "url": "https://github.com/ChengenH/chengsbinance/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/ChengenH/binance#readme",
+  "homepage": "https://github.com/ChengenH/chengsbinance#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
